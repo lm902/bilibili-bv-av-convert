@@ -1,0 +1,25 @@
+{
+  "name": "bilibili-bv-av-convert",
+  "version": "1.0.0",
+  "description": "Converts video BV to/from AV for Bilibili",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lm902/bilibili-bv-av-convert.git"
+  },
+  "keywords": [
+    "bilibili",
+    "bv",
+    "danmaku",
+    "convert"
+  ],
+  "author": "lm902",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lm902/bilibili-bv-av-convert/issues"
+  },
+  "homepage": "https://github.com/lm902/bilibili-bv-av-convert#readme"
+}
