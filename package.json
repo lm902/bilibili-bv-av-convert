@@ -4,7 +4,7 @@
   "description": "Converts video BV to/from AV for Bilibili",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/lm902/bilibili-bv-av-convert/issues"
   },
-  "homepage": "https://github.com/lm902/bilibili-bv-av-convert#readme"
+  "homepage": "https://github.com/lm902/bilibili-bv-av-convert#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.1.0"
+  }
 }
